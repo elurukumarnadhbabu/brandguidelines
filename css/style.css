@@ -1,0 +1,466 @@
+/* CSS Document */
+
+.bg
+{
+	height:100vh;
+	background:url("../images/Jpg.JPG") no-repeat center center;
+	background-size:cover;
+}
+.s1 .exsmall
+{
+	font-size: 64px; 
+	padding-top: 67px;
+}
+.s1 .small-size
+{
+	font-family:'Calibri Light'; 
+	font-size: 94px; 
+	padding-top: 116px;
+}
+.s2 .bottom
+{
+	padding-bottom: 150px;
+}
+.s2 .exsmall
+{
+	font-family: Calibri; 
+	font-size: 20px;
+	text-align: left;
+}
+.s3 .right
+{
+	padding-left: 75px;
+}
+/*.s3 .content
+{
+	float: right; 
+	font-family: Calibri; 
+	font-size: 20px;
+}*/
+.s3 .content1
+{
+	font-family: Calibri; 
+	font-size: 20px;
+}
+.s4
+{
+	background-color: #3cc4e7;
+	height: 692px;
+}
+.s5 .exsmall
+{
+	font-family: Calibri; 
+	font-size: 21px; 
+	font-weight: bold;
+}
+.s4 .small
+{
+	padding-top: 269px; 
+	font-family: 'Calibri Light'; 
+	font-size: 100px; 
+	color: #FFFFFF;
+}
+.s6 .exsmall
+{
+	font-family: Calibri;
+	font-size: 20px;
+}
+.s6 .bottom
+{
+	padding-bottom: 70px;
+}
+.s9
+{
+	background-color: #fec30f;
+	height: 692px;
+}
+.s9 .small
+{
+	padding-top: 195px; 
+	font-family: 'Calibri Light'; 
+	font-size: 100px; 
+	color: #FFFFFF;
+}
+.bottom
+{
+	padding-bottom: 180px;
+}
+.small
+{
+	font-size: 50px; 
+	padding-top: 30px; 
+	font-family:'Calibri Light';
+}
+.s31 .small
+{
+	font-size: 50px; 
+	padding-top: 30px; 
+	font-family:'Calibri Light';
+}
+.s32 .small
+{
+	font-size: 50px; 
+	padding-top: 30px; 
+	font-family:'Calibri Light';
+}
+.s33
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s33 .bottom
+{
+	padding-bottom: 130px;
+}
+.s34 .padleft
+{
+	padding-left: 23px;
+}
+.s34 .small
+{
+	font-size: 50px; 
+	padding-top: 30px; 
+	font-family:'Calibri Light';
+}
+.s35 .small
+{
+	font-size: 50px; 
+	padding-top: 30px; 
+	font-family:'Calibri Light';
+}
+.s36 .small
+{
+    font-size: 50px; 
+    padding-top: 30px; 
+    font-family:'Calibri Light';
+}
+.s41 .small
+{
+	font-family: Calibri;
+	font-size: 30px;
+	font-weight: bold;
+}
+.s42
+{
+	background-color: #3288ca;
+	height: 692px;
+}
+.s42 .small
+{
+	padding-top: 195px; 
+	font-family: 'Calibri Light'; 
+	font-size: 100px; 
+	color: #FFFFFF;
+}
+.s46
+{
+	background-color: #ef4b77;
+	height: 692px;
+}
+.s46 .small
+{
+	padding-top: 269px; 
+	font-family: 'Calibri Light'; 
+	font-size: 100px; 
+	color: #FFFFFF;
+}
+.s47
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s47 .small
+{
+	font-size: 50px; 
+	padding-top: 30px; 
+	font-family:'Calibri Light';
+}
+.s48
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s49
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s50
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s51
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s52
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s53
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s55
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s58
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s59
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s60
+{
+	background-color: #eef1f0;
+	height: 882px;
+}
+.s61
+{
+	background-color: #1bbdcc;
+	height: 692px;
+}
+.s61 .small
+{
+	padding-top: 269px; 
+	font-family: 'Calibri Light'; 
+	font-size: 100px; 
+	color: #FFFFFF;
+}
+.s62 .response1
+{
+	font-family: Calibri;
+	font-size: 30px;
+	font-weight: bold;
+}
+.s62 .response2
+{
+	font-family: Calibri;
+	font-size: 20px;
+}
+
+@media only screen and (max-width: 800px)
+{
+	.s1 .small-device
+	{
+		padding-top: 280px;
+	}
+	.s1 .small-size
+	{
+		font-size: 54px;
+	}
+	.s3 .content
+	{
+		float: right; 
+		font-family: Calibri; 
+		font-size: 20px;
+	}
+	.s3 .content1
+	{
+		font-family: Calibri; 
+		font-size: 20px;
+	}
+	.s4 .small
+	{
+		padding-top: 346px; 
+		font-family: 'Calibri Light'; 
+		color: #FFFFFF;
+		font-size: 40px;
+	}
+	.s9 .small
+	{
+		padding-top: 296px; 
+		font-family: 'Calibri Light'; 
+		font-size: 40px; 
+		color: #FFFFFF;	
+	}
+	.s33
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s34 .padleft
+	{
+		padding-left: 0px;
+	}
+	.s41 .small
+	{
+		font-family: Calibri;
+		font-size: 20px;
+		font-weight: bold;
+	}
+	.s42 .small
+	{
+		padding-top: 296px; 
+		font-family: 'Calibri Light'; 
+		font-size: 40px; 
+		color: #FFFFFF;	
+	}
+	.s46 .small
+	{
+		padding-top: 296px; 
+		font-family: 'Calibri Light'; 
+		font-size: 40px; 
+		color: #FFFFFF;	
+	}
+	.s47
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s47 .small
+	{
+		font-size: 40px; 
+		padding-top: 30px; 
+		font-family:'Calibri Light';
+	}
+	.s48
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s49
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s50
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s51
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s52
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s53
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s55
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s58
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s59
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s60
+	{
+		background-color: #eef1f0;
+		height: 1192px;
+	}
+	.s61 .small
+	{
+		padding-top: 296px; 
+		font-family: 'Calibri Light'; 
+		font-size: 40px; 
+		color: #FFFFFF;	
+	}
+	.s62 .response1
+	{
+		font-family: Calibri;
+		font-size: 29px;
+		font-weight: bold;
+	}
+	.s62 .response2
+	{
+		font-family: Calibri;
+		font-size: 15px;
+	}
+}
+@media only screen and (max-width: 300px)
+{
+	.small
+	{
+		font-size: 40px; 
+		padding-top: 30px; 
+		font-family:'Calibri Light';
+	}
+	.s1 .exsmall
+	{
+		font-size: 57px; 
+		padding-top: 67px;
+	}
+	.s3 .content1
+	{
+		font-family: Calibri; 
+		font-size: 18px;
+	}
+	.s5 .exsmall
+	{
+		font-family: Calibri; 
+		font-size: 20px; 
+		font-weight: bold;
+	}
+	.s6 .exsmall
+	{
+		font-family: Calibri;
+		font-size: 15px;
+	}
+	.s31 .small
+	{
+		font-size: 40px; 
+		padding-top: 30px; 
+		font-family:'Calibri Light';
+	}
+	.s32 .small
+	{
+		font-size: 40px; 
+		padding-top: 30px; 
+		font-family:'Calibri Light';
+	}
+	.s34 .small
+	{
+		font-size: 40px; 
+		padding-top: 30px; 
+		font-family:'Calibri Light';
+	}
+	.s35 .small
+	{
+		font-size: 40px; 
+		padding-top: 30px; 
+		font-family:'Calibri Light';
+	}
+	.s36 .small
+	{
+		font-size: 40px; 
+		padding-top: 30px; 
+		font-family:'Calibri Light';
+	}
+	.s41 .small
+	{
+		font-family: Calibri;
+		font-size: 15px;
+		font-weight: bold;
+	}
+	.s62 .response2
+	{
+		font-family: Calibri;
+		font-size: 10px;
+	}
+}
